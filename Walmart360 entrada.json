@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 163,
+    "left": 0,
+    "width": 632,
+    "height": 842,
+    "isRotated": true,
+    "originalWidth": 632,
+    "originalHeight": 1170
+  },
+  "imagePath": "image-targets/Walmart360 entrada_luminance.jpg",
+  "metadata": null,
+  "name": "Walmart360 entrada",
+  "resources": {
+    "originalImage": "Walmart360 entrada_original.jpg",
+    "croppedImage": "Walmart360 entrada_cropped.jpg",
+    "thumbnailImage": "Walmart360 entrada_thumbnail.jpg",
+    "luminanceImage": "Walmart360 entrada_luminance.jpg"
+  },
+  "created": 1793915287165,
+  "updated": 1793915287165
+}
